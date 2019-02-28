@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d2e71f6-c6ae-4356-815f-7917503dcce8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Prime_detector/PrimeDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringPalindrome/StringPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,33 +30,44 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1310" />
+          <entry key="dummy" value="1" />
+          <entry key="java" value="1799" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1310" />
+          <entry key="JAVA" value="1799" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Prime_detector/PrimeDetector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="289">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StringPalindrome/StringPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -375,6 +387,8 @@
         <option value="$PROJECT_DIR$/src/main/java/FirstClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/fibonnacciSeries/FibonnacciCalculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Prime_detector/PrimeDetector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StringPalindrome/StringPalindrom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StringPalindrome/StringPalindrome.java" />
       </list>
     </option>
   </component>
@@ -423,6 +437,14 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="my-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tomek-Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="StringPalindrome" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -433,7 +455,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551364092046" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551378626124" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -450,7 +472,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimeDetector">
+  <component name="RunManager" selected="Application.StringPalindrome">
     <configuration name="FibonnacciCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fibonnacciSeries.FibonnacciCalculator" />
       <module name="my-exercises_main" />
@@ -477,12 +499,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPalindrome.StringPalindrome" />
+      <module name="my-exercises_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringPalindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.FibonnacciCalculator" />
       <item itemvalue="Application.PrimeDetector" />
+      <item itemvalue="Application.StringPalindrome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringPalindrome" />
         <item itemvalue="Application.PrimeDetector" />
         <item itemvalue="Application.FibonnacciCalculator" />
       </list>
@@ -498,15 +535,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551346084518</updated>
-      <workItem from="1551346098370" duration="6854000" />
+      <workItem from="1551346098370" duration="9270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6854000" />
+    <option name="totallyTimeSpent" value="9270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -567,8 +605,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Prime_detector/PrimeDetector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringPalindrome/StringPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
         </state>
       </provider>
     </entry>
